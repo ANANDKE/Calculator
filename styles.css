@@ -9,10 +9,13 @@
 .inp{
     width: 230px;
     height: 60px;
-    font-weight: 800;
+    font-weight: 400;
     margin-top: 15px;
     margin-left: 8px;
     border-radius: 10px;
+    font-size: 30px;
+    color: white;
+
 }
 .btn{
     width: 50px;
